@@ -11,7 +11,7 @@ Mục tiêu là tạo ra một mô hình có thể dự đoán doanh số bán h
 
 # Bộ dữ liệu
 ***
-Bộ dữ liệu có tên là bigmart-sales-data. Bộ dữ liệu này được lấy từ [BigMart Sales Data](https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data). Bộ dữ liệu này bao gồm 2013 dòng và 12 cột. Các cột là:
+Bộ dữ liệu có tên là bigmart-sales-data. Bộ dữ liệu này được lấy từ [BigMart Sales Data](https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data). Bộ dữ liệu này bao gồm 8523 dòng và 12 cột. Các cột là:
 1. **Item_Identifier**: ID sản phẩm duy nhất
 2. **Item_Weight**: Trọng lượng của sản phẩm
 3. **Item_Fat_Content**: Sản phẩm có chứa chất béo thấp hay không
